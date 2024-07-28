@@ -35,4 +35,4 @@ This project involves the design, construction, programming, and testing of a Re
 
 ## Video Demonstration
 Here is a video showcasing the Reflow Oven Controller in action:
-[[[![Reflow Oven Controller Video](./video_thumbnail.jpg)](./project_demo.mp4)](https://github.com/Shengw3n/Reflow-Oven-Controller)](https://www.youtube.com/watch?v=fH3kwNQ_S6Q)
+https://www.youtube.com/watch?v=fH3kwNQ_S6Q
