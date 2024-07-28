@@ -4,8 +4,7 @@
 
 This project involves the design, construction, programming, and testing of a Reflow Oven Controller using a 1T-8051 based series MCU. The Reflow Oven Controller is used for assembling surface mount devices (SMDs) onto printed circuit boards (PCBs) through the process of reflow soldering. This process utilizes a K-type thermocouple for temperature measurement and an LCD for displaying relevant information. The project also includes additional functionalities such as user interface buttons, automatic cycle termination on error, temperature strip chart plotting, and email notifications.
 
-![Reflow oven](https://github.com/user-attachments/assets/0f24415e-f9f1-49a6-a8b8-baa3be656a31)
-
+![Reflow oven](https://github.com/user-attachments/assets/392d6620-6b32-4bf4-b7df-980c1fbacc14)
 
 ## Project Details
 
