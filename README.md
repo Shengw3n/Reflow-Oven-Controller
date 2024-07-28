@@ -24,7 +24,7 @@ This project involves the design, construction, programming, and testing of a Re
 - Capable of measuring temperatures between 25°C and 240°C
 - Operate a 1500W toaster oven using a solid state relay
 - Aborts the reflow process if the oven doesn't reach at least 50°C in the first 60 seconds of operation.
-- Selectable reflow profile parameters such as soak temperature, soak time, reflow temperature, and reflow time
+- Selectable profile parameters such as soak temperature, soak time, reflow temperature, and reflow time
 - LCD display showing temperature, running time, and current reflow state
 - Start/Stop functionality via pushbuttons
 - Automatic cycle termination on error
