@@ -37,7 +37,3 @@ This project involves the design, construction, programming, and testing of a Re
 Here is a video showcasing the Reflow Oven Controller in action:
 https://www.youtube.com/watch?v=fH3kwNQ_S6Q
 
-## Contributors
-Steven Chen, Vaibhav Grover, Monil Arora, Qilin Song, Pratik Pushkarna, Timothy Yen, Sidhant Sidana
-
-
