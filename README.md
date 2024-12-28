@@ -21,6 +21,7 @@ This project involves the design, construction, programming, and testing of a Re
 
 ### Software Features
 - Programmed in assembly language
+- Real-time Temperature plotting using Python
 - Capable of measuring temperatures between 25°C and 240°C
 - Operate a 1500W toaster oven using a solid state relay
 - Aborts the reflow process if the oven doesn't reach at least 50°C in the first 60 seconds of operation.
@@ -28,7 +29,6 @@ This project involves the design, construction, programming, and testing of a Re
 - LCD display showing temperature, running time, and current reflow state
 - Start/Stop functionality via pushbuttons
 - Automatic cycle termination on error
-- Real-time temperature strip chart plotting
 - Email notifications for various heating stages
 - Audio reminders for cycle completions
 - Temperature readings in Celsius and Fahrenheit (validated with an error margin of ±3°C)
